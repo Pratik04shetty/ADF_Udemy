@@ -1,0 +1,9 @@
+{
+	"name": "Covid-Reporting-ADFSG",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "757bede1-824d-49a4-8e56-9f4242c140fc",
+		"tenantId": "bfd95d88-d8ef-47b7-a5a7-ca64c5b50bec"
+	}
+}
