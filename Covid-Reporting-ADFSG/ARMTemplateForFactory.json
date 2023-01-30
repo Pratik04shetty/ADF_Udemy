@@ -663,7 +663,7 @@
 					"recurrence": {
 						"frequency": "Day",
 						"interval": 1,
-						"startTime": "2023-01-30T20:25:00",
+						"startTime": "2023-01-30T20:30:00",
 						"timeZone": "India Standard Time",
 						"schedule": {}
 					}
